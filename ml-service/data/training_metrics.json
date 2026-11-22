@@ -1,0 +1,11 @@
+{
+  "data_source": "synthetic-demo",
+  "split_strategy": "medicine-level holdout",
+  "random_seed": 42,
+  "training_rows": 38400,
+  "testing_rows": 9600,
+  "medicine_count": 2000,
+  "mae_units": 9.841,
+  "rmse_units": 12.889,
+  "note": "Synthetic demo metrics are not a measure of real-world forecast accuracy."
+}
